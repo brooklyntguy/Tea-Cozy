@@ -38,7 +38,7 @@ nav ul li {
     width: 1200px;
     margin: auto;
     text-align: center;
-    background-image: url("../images/mission-background.png");
+    background-image: url("./images/mission-background.png");
 }
 
 #Mission article {
@@ -81,7 +81,7 @@ figure {
 }
 
 #Locations {
-    background-image: url("../images/locations-background.png");
+    background-image: url("./images/locations-background.png");
     height: 500px;
     width: 1200px;
     text-align: center;
